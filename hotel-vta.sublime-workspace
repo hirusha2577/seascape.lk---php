@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_",
+				"array_res"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"H",
+				"Helper"
+			],
+			[
+				"resu",
+				"result2"
+			],
+			[
+				"im",
+				"image_name"
+			],
+			[
+				"upl",
+				"upload_image"
+			],
+			[
+				"E",
+				"Excursion"
+			],
+			[
+				"arra",
+				"array_res"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"p",
+				"padding-right\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"class\tclass …"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"h",
+				"hidden\tAttr"
+			],
+			[
+				"de",
+				"de_pu_class"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"PRI",
+				"print_r"
+			],
+			[
+				"j",
+				"jqXHR"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ema",
+				"email_add"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"border-CO",
+				"border-color\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bacgr",
+				"background-image\tproperty"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"tp",
+				"top_post"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tu",
+				"tutorials"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"get",
+				"getenv"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"array_res"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"top_",
+				"top_post3"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"exit",
+				"Indexing Status"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/hotel-vta",
+		"/C/xampp/htdocs/hotel-vta/admin",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post"
+	],
+	"file_history":
+	[
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/bbb.php",
+		"/C/xampp/htdocs/hotel-vta/admin/manage_booking.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/gallery.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/gallery.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-3/aaa.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/Database.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-3/Database.php",
+		"/C/xampp/htdocs/vta_main/class/Database.php",
+		"/C/xampp/htdocs/hotel-vta/admin/add_cart.php",
+		"/C/xampp/htdocs/hotel-vta/class/include.php",
+		"/C/xampp/htdocs/hotel-vta/admin/include/sidebar.php",
+		"/C/xampp/htdocs/hotel-vta/admin/cart_list.php",
+		"/C/xampp/htdocs/hotel-vta/admin/manage_payment.php",
+		"/C/xampp/htdocs/hotel-vta/admin/view_invoice.php",
+		"/C/xampp/htdocs/TEMPLATES/Materialize_Modern/pixinvent.com/materialize-material-design-admin-template/html/ltr/vertical-modern-menu-template/app-invoice-view.html",
+		"/C/xampp/htdocs/hotel-vta/admin/view_invoice,php",
+		"/C/xampp/htdocs/hotel-vta/admin/include/header.php",
+		"/C/xampp/htdocs/TEMPLATES/Materialize_Modern/pixinvent.com/materialize-material-design-admin-template/html/ltr/vertical-modern-menu-template/app-invoice-list.html",
+		"/C/xampp/htdocs/hotel-vta/class/Payment.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/payment.php",
+		"/C/xampp/htdocs/land_service/admin/permit.php",
+		"/C/xampp/htdocs/land_service/admin/permit_view.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/dining.php",
+		"/C/xampp/htdocs/hotel-vta/admin/slider.php",
+		"/C/xampp/htdocs/hotel-vta/admin/comment.php",
+		"/C/xampp/htdocs/hotel-vta/admin/accommodation.php",
+		"/C/xampp/htdocs/hotel-vta/admin/user.php",
+		"/C/xampp/htdocs/hotel-vta/admin/manage_booking_list.php",
+		"/C/xampp/htdocs/hotel-vta/book-room/send-email.php",
+		"/C/xampp/htdocs/hotel-vta/admin/paid_list.php",
+		"/C/xampp/htdocs/land_service/admin/new_pibura.php",
+		"/C/xampp/htdocs/TEMPLATES/CORE UI2/coreui.io/demo/3.0.0/vendors/@coreui/coreui-pro/js/coreui.bundle.min.js",
+		"/C/xampp/htdocs/TEMPLATES/CORE UI2/coreui.io/demo/3.0.0/index.html",
+		"/C/xampp/htdocs/TEMPLATES/index.html",
+		"/C/xampp/htdocs/vta_main/index.php",
+		"/C/xampp/htdocs/vta_main/view_module.php",
+		"/C/xampp/htdocs/vta_main/view_category.php",
+		"/C/xampp/htdocs/vta_main/view_center.php",
+		"/C/xampp/htdocs/vta_main/view_course.php",
+		"/C/xampp/htdocs/vta_main/load/course.php",
+		"/C/xampp/htdocs/vta_main/load/center.php",
+		"/C/xampp/htdocs/vta_main/load/category.php",
+		"/C/xampp/htdocs/vta_main/class/Course.php",
+		"/F/_WEB/VTA Main/centers_to_baddegama.sql",
+		"/F/_WEB/VTA Main/Course_to_baddegama.sql",
+		"/F/_WEB/VTA Main/baddegama_center_course.sql",
+		"/C/xampp/htdocs/TEMPLATES/Materialize_Modern/pixinvent.com/materialize-material-design-admin-template/html/ltr/vertical-modern-menu-template/table-data-table.html",
+		"/C/xampp/htdocs/hotel-vta/admin/update_room_price.php",
+		"/C/xampp/htdocs/hotel-vta/admin/accommodation_price.php",
+		"/C/xampp/htdocs/hotel-vta/admin/update-accommodation_image.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/room_price.js",
+		"/C/xampp/htdocs/hotel-vta/class/Room_Price.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/room_price.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/event.js",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/dining.js",
+		"/C/xampp/htdocs/hotel-vta/class/Event.php",
+		"/C/xampp/htdocs/hotel-vta/class/Excursion.php",
+		"/C/xampp/htdocs/hotel-vta/class/Dining.php",
+		"/C/xampp/htdocs/TEMPLATES/Materialize_Modern/pixinvent.com/materialize-material-design-admin-template/html/ltr/vertical-modern-menu-template/advance-ui-carousel.html",
+		"/C/xampp/htdocs/hotel-vta/admin/update-event_image.php",
+		"/C/xampp/htdocs/hotel-vta/class/Event_Image.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/room.js",
+		"/C/xampp/htdocs/hotel-vta/accommodation.php",
+		"/C/Users/Kavinda/Downloads/centers_to_baddegama.sql",
+		"/C/Users/Kavinda/Downloads/Course_to_baddegama.sql",
+		"/C/Users/Kavinda/Downloads/baddegama_center_course.sql",
+		"/C/xampp/htdocs/hotel-vta/class/Room.php",
+		"/C/xampp/htdocs/hotel-vta/admin/excursion.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/excursion.js",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/excursion.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xampp/htdocs/hotel-vta/class/Upload.php",
+		"/C/xampp/htdocs/hotel-vta/class/Database.php",
+		"/C/xampp/htdocs/hotel-vta/admin/update-event.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/ajax/event-image.php",
+		"/C/xampp/htdocs/hotel-vta/admin/get-post/js/event-image.js",
+		"/C/xampp/htdocs/hotel-vta/admin/update-dining.php",
+		"/C/xampp/htdocs/hotel-vta/admin/update-excursion.php",
+		"/C/xampp/htdocs/hotel-vta/admin/event.php",
+		"/C/xampp/htdocs/hotel-vta/admin/dining.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/aaa.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/module.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/view_module.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/excursions.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/Course.php",
+		"/D/hotel-vta/class/Excursion.php",
+		"/C/xampp/htdocs/vta_main/get-post/js/course.js",
+		"/C/xampp/htdocs/vta_main/get-post/ajax/course.php",
+		"/C/xampp/htdocs/vta_main/class/Module.php",
+		"/C/xampp/htdocs/vta_main/get-post/ajax/module.php",
+		"/C/xampp/htdocs/vta_main/get-post/js/module.js",
+		"/C/xampp/htdocs/vta_main/class/aaa.php",
+		"/C/xampp/htdocs/vta_main/class/Category.php",
+		"/C/xampp/htdocs/vta_main/get-post/ajax/category.php",
+		"/C/xampp/htdocs/vta_main/get-post/js/category.js",
+		"/C/xampp/htdocs/vta_main/get-post/js/center.js",
+		"/C/xampp/htdocs/vta_main/get-post/ajax/center.php",
+		"/C/xampp/htdocs/vta_main/class/Center.php",
+		"/D/online.php",
+		"/D/55555555555555555/upload/online-apply.php",
+		"/C/xampp/htdocs/vta_main/company_registration.php",
+		"/C/xampp/htdocs/vta_main/include/footer.php",
+		"/C/xampp/htdocs/vta_main/company_registration_edit.php",
+		"/C/xampp/htdocs/vta_main/view_center_edit.php",
+		"/C/xampp/htdocs/vta_main/class/Company.php",
+		"/C/xampp/htdocs/vta_main/class/include.php",
+		"/C/xampp/htdocs/vta_main/include/header.php",
+		"/C/xampp/htdocs/TEMPLATES/Xtreme/www.wrappixel.com/demos/admin-templates/xtreme-admin/html/ltr/table-jsgrid.html",
+		"/C/xampp/htdocs/TEMPLATES/Xtreme/www.wrappixel.com/demos/admin-templates/xtreme-admin/html/ltr/table-datatable-basic.html",
+		"/C/xampp/htdocs/hotel-vta/gallery.php",
+		"/C/xampp/htdocs/hotel-vta/include/script.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/dining.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/slider.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/facilities.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/events.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/about.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/room_details3.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/room_details1.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/room_details2.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/accommodation.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/book-room.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/room_details.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/D/55555555555555555/countdown.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/slider 2.php",
+		"/C/Users/Kavinda/AppData/Local/Temp/fz3temp-2/Config.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cover",
+			"view_invoice.php",
+			"view_invoice,php",
+			"../../../app-assets/",
+			"app-invoice-view.html",
+			"../../../app-assets/",
+			"404"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Cover",
+			"add_cart.php",
+			"view_invoice.php",
+			"",
+			"view_invoice,php",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hotel-vta.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\vta_main\\vta_main.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Center"
+			]
+		],
+		"width": 628.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
