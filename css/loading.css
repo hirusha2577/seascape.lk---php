@@ -1,0 +1,36 @@
+.center {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+	}
+	.ring {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		box-shadow: 0 4px 0 #8e1f4a;
+		background: transparent;
+		animation: animate 1s linear infinite;
+	}
+	.text {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		color: #8e1f4a;
+		position: absolute;
+		top: 0;
+		left: 0;
+		text-align: center;
+		line-height: 200px;
+		font-size: 2em;
+		background: transparent;
+		box-shadow: 0 0 5px rgba(0,0,0,0.2);
+	}
+	@keyframes animate {
+		0%{
+			transform: rotateZ(0deg);
+		}
+		100%{
+			transform: rotateZ(360deg);
+		}
+	}

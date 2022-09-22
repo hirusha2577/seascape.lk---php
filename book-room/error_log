@@ -1,0 +1,63 @@
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 25
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 44
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: subject in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 66
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 69
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 72
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 120
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_email in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 124
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: message in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 128
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 143
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 163
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: comany_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 208
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 212
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 231
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: subject in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 253
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 256
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 259
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 307
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: visitor_email in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 311
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: message in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 315
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 330
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 350
+[16-May-2019 12:44:22 America/New_York] PHP Notice:  Undefined index: captchacode in /home/suhasgfy/sites/vta/contact-form/send-email.php on line 19
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 25
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 44
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: subject in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 66
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 69
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 72
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 120
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_email in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 124
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: message in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 128
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 143
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 163
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: comany_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 208
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 212
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 231
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: subject in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 253
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 256
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 259
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 307
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: visitor_email in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 311
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: message in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 315
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: website_name in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 330
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined variable: site_link in /home/suhasgfy/sites/vta/contact-form/mail-template.php on line 350
+[17-May-2019 11:22:16 America/New_York] PHP Notice:  Undefined index: captchacode in /home/suhasgfy/sites/vta/contact-form/send-email.php on line 19
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:23 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:24 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:24 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[24-Feb-2020 23:23:24 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:17:37 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:17:37 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:17:37 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:19:14 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:19:14 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:19:14 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:22:18 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:22:18 America/New_York] PHP Warning:  include(../class/include.php): failed to open stream: No such file or directory in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[25-Feb-2020 04:22:18 America/New_York] PHP Warning:  include(): Failed opening '../class/include.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 3
+[26-Feb-2020 07:03:43 America/New_York] PHP Notice:  Undefined index: price in /home/suhatdux/sites/hotel-school/book-room/send-email.php on line 44
